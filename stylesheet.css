@@ -1,0 +1,23 @@
+html {
+}
+
+
+
+nav {
+    color: #fff;
+    background-color: #006064;
+    width: 100%;
+    height: 56px;
+    line-height: 56px;
+    /*text-align: center;*/
+}
+
+
+.collection .collection-item.ingredients {
+  background-color: #b2dfdb;
+}
+
+img {
+  height: 60px;
+  width: 80px;
+}
